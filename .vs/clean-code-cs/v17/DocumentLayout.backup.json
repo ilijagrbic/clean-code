@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\temp\\clean-code-cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\refactoringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\refactoringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\featureenvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\featureenvy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\primiteobsesionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\primiteobsesionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\srpexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\srpexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\functionsexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\functionsexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|q:\\temp\\clean-code-cs\\clean-code-cs\\nammingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30564766-D5D5-4898-AB24-EECFEC98B4A0}|clean-code-cs\\clean-code-cs.csproj|solutionrelative:clean-code-cs\\nammingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NammingExample.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\NammingExample.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\NammingExample.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\NammingExample.cs",
+              "RelativeToolTip": "clean-code-cs\\NammingExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:00:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionsExamples.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\FunctionsExamples.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\FunctionsExamples.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\FunctionsExamples.cs",
+              "RelativeToolTip": "clean-code-cs\\FunctionsExamples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:00:00.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SRPExample.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\SRPExample.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\SRPExample.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\SRPExample.cs",
+              "RelativeToolTip": "clean-code-cs\\SRPExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:57:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimiteObsesionExample.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\PrimiteObsesionExample.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\PrimiteObsesionExample.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\PrimiteObsesionExample.cs",
+              "RelativeToolTip": "clean-code-cs\\PrimiteObsesionExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:54:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeatureEnvy.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\FeatureEnvy.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\FeatureEnvy.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\FeatureEnvy.cs",
+              "RelativeToolTip": "clean-code-cs\\FeatureEnvy.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:10:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefactoringExample.cs",
+              "DocumentMoniker": "Q:\\temp\\clean-code-cs\\clean-code-cs\\RefactoringExample.cs",
+              "RelativeDocumentMoniker": "clean-code-cs\\RefactoringExample.cs",
+              "ToolTip": "Q:\\temp\\clean-code-cs\\clean-code-cs\\RefactoringExample.cs",
+              "RelativeToolTip": "clean-code-cs\\RefactoringExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:42:02.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
